@@ -1,16 +1,18 @@
-## Hi there 👋
+**Hi there **👋
+I'm Aris Songalia, based in Cavite, Philippines, aspiring to become a great Software Engineer 🧑‍💻.
 
-<!--
-**ArisSongalia/ArisSongalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working on a full-stack web application built with React, Firebase, and MongoDB Atlas.
 
-Here are some ideas to get you started:
+🌱 Actively learning full-stack software development for both desktop and mobile platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Proficient in JavaScript, Python, Java, and Go (Golang). I work with frameworks and libraries such as React, Vue, Angular, Django, and Express.
+
+👯 Open to collaborating on dynamic, multi-device applications — especially those with a touch of AI/ML.
+
+💬 Feel free to reach out for collaborations and opportunities.
+
+📫 Contact me via email: hello.arissongalia@gmail.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I'm exploring Buddhism to grow personally and guide my passion with purpose.
