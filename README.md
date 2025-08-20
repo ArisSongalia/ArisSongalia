@@ -5,7 +5,7 @@ I'm Aris Songalia, based in Cavite, Philippines, aspiring to become a great Soft
 
 🌱 Actively learning full-stack software development for both desktop and mobile platforms.
 
-💻 Proficient in JavaScript, Python, Java, and Go (Golang). I work with frameworks and libraries such as React, Vue, Angular, Django, and Express.
+💻 Currently exploring JavaScript, Python, Java, and Go (Golang), along with frameworks and libraries such as React, Vue, Angular, Django, and Express.
 
 👯 Open to collaborating on dynamic, multi-device applications — especially those with a touch of AI/ML.
 
